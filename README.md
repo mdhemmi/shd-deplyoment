@@ -2,7 +2,7 @@
 
 ### config file
 
-skyline_config.json
+shd_config.json
 
 ```json
 {
