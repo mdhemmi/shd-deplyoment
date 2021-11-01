@@ -1,7 +1,7 @@
 #########################################
 #                                       #
 #   Author: Michael Hempel              #
-#   Email:  mhempel@vmware.com          #
+#   Email:  mhempel@xmsoft.de           #
 #                                       #
 #   Credits:                            #
 #           Thomas Dietl                #
