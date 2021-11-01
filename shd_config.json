@@ -1,0 +1,23 @@
+{
+    "vcsa":  "VCENTER-FQDN",
+    "vcsauser":  "administrator@vsphere.local",
+    "vcsauserpass": "VMware123!",
+    "PowerOnSkyline": "yes",
+    "SHDUserPass": "VMware123!",
+    "VMHost": "ESXI-FQDN",
+    "TargetDS": "DATASTORE",
+    "SourceOVFFile": "/PATH/TO/OVA/VMware-Skyline-HealthDiagnostics-Appliance-2.5.2-18570524_OVF10.ova",
+    "TargetVMName": "skyline-health-diagnostics",
+    "TargetVMStorageFormat": "Thin",
+    "RootPW": "VMware123!",
+    "NetworkMapping": "VM Network",
+    "Hostname": "shd",
+    "IP0": "SHD-IP",
+    "Netmask0": "23",
+    "Gateway": "GATEWAY-IP",
+    "DNS": "DNS-SERVERS",
+    "NTP": "NTP-SERVERS"
+}
+
+
+
