@@ -5,7 +5,6 @@
 #                                       #
 #   Credits:                            #
 #           Thomas Dietl                #
-#           William Lam                 #
 #           Matthias Branzko            #
 #                                       #
 #########################################
