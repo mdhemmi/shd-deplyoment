@@ -1,4 +1,4 @@
-# Skyline collector deployment automation script
+# Skyline Health Diagnostic deployment automation script
 
 ### config file
 
